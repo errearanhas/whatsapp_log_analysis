@@ -1,4 +1,4 @@
-## Whatsapp log analysis
+## Whatsapp chat analysis
 
 <img align="left" width="60" height="60" src="https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN">
 
