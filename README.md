@@ -1,15 +1,18 @@
 ## Whatsapp log analysis
 
+<img align="left" width="60" height="60" src="https://lh3.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN">
+
 Although WhatsApp doesn’t have a public API, it does allow users to export their chat history into a txt file.
 
 With this data and using Python, I tried some analysis about chat groups I belong. 
 
-The aim of the project is to determine:
+\
+The project goals are to determine:
 
-##### - The most "active" year, in terms of messages sent;
-##### - The most active member on the group (highest number of messages sent);
-##### - The activity per hour (30 minutes windows) across the days (per member);
-##### - The most "image sender" member and "audio sender" member;
-##### - The most typing member (characters per message);
+##### - the most "active" year, in terms of messages sent;
+##### - the most active member on the group (highest number of messages sent);
+##### - the activity per hour (30 minutes windows) across the days (per member);
+##### - the most "image sender" member and "audio sender" member;
+##### - the most typing member (characters per message);
 
 Renato Aranha - Jun 2018
