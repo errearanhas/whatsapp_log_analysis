@@ -17,5 +17,3 @@ The project goals are to determine:
 - the activity per hour (30 minutes windows) across the days (per member);
 - the most "image sender" member and "audio sender" member;
 - the most typing member (characters per message);
-
-Renato Aranha - Jun 2018
